@@ -25,3 +25,4 @@ curl -Ls https://circle-artifacts.com/gh/andyshinn/alpine-pkg-glibc/6/artifacts/
 # # Set environment
 ENV JAVA_HOME /opt/app
 ENV PATH ${PATH}:${JAVA_HOME}/bin
+
